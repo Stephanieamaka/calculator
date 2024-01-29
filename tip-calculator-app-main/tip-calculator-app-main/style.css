@@ -40,4 +40,15 @@
 .right {
   background-color: hsl(183, 100%, 15%);
   border-radius: 0.5rem;
+  width:50% ;
+  padding: 20px;
+}
+
+#reset{
+    background-color: hsl(172, 67%, 45%);
+    border: none;
+    width: 90%;
+    height: 25px;
+    font-size: medium;
+    
 }
